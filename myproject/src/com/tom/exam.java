@@ -12,7 +12,7 @@ public class exam {
 		        
 		        float weight =(float)58.5;
 		        float height = 176.5f;
-		        System.out.println(message);
+		        System.out.println(message+aaa);
 				System.out.println("my name is");
 		        System.out.println(firstname+lastname);
 		        System.out.println(age+"years old");
